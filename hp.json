@@ -1,0 +1,39 @@
+{
+  "books" : [
+    {
+      "book" : "Harry Potter and the Philosopher's Stonenn",
+      "published" : 1997,
+      "price" : 15
+    },
+    {
+      "book" : "Harry Potter and the Chamber of Secrets",
+      "published" : 1998,
+      "price" : 14
+    },
+    {
+      "book" : "Harry Potter and the Prisoner of Azkaban",
+      "published" : 1999,
+      "price" : 15
+    },
+    {
+      "book" : "Harry Potter and the Goblet of Fire",
+      "published" : 2000,
+      "price" : 13
+    },
+    {
+      "book" : "Harry Potter and the Order of the Phoenix",
+      "published" : 2003,
+      "price" : 15
+    },
+    {
+      "book" : "Harry Potter and the Half-Blood Prince",
+      "published" : 2005,
+      "price" : 16
+    },
+    {
+      "book" : "Harry Potter and the Deathly Hallows",
+      "published" : 2007,
+      "price" : 18
+    }
+  ]
+}
